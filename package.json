@@ -1,0 +1,15 @@
+{
+  "name": "autoencoder",
+  "version": "0.0.1",
+  "description": "First try at making a auto encoder",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^3.18.0"
+  }
+}
